@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"0x0",
+		"Atomic Color Scheme",
+		"CppFastOlympicCoding",
+		"Dart",
+		"FileIcons",
+		"GitHub Theme",
+		"Materialize",
+		"Monokai Dark",
+		"OLED Color Scheme",
+		"Package Control",
+		"RainbowBrackets",
+		"Rainbowth",
+		"SideBarEnhancements",
+		"SublimeAStyleFormatter",
+		"Theme - Afterglow",
+		"Tomorrow Color Schemes",
+		"Xcode Colors",
+	],
+}

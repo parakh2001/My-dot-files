@@ -1,0 +1,13 @@
+// Settings in here override those in "LSP-Dart/LSP-Dart.sublime-settings"
+{
+	"env": {
+		"FLUTTER_ROOT": "/home/pg25/flutter/"	
+	},
+	"initializationOptions" : {
+		"closingLabels": true,
+	},
+	"settings":{
+		"dart.showTodos": true,
+		"dart.completeFunctionCalls": true,
+	}
+}

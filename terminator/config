@@ -1,0 +1,20 @@
+[global_config]
+  sticky = True
+  enabled_plugins = ActivityWatch, CustomCommandsMenu, CurrDirOpen, InsertTermName, Logger, MavenPluginURLHandler, RunCmdOnMatchMenu, SaveLastSessionLayout, TerminalShot, TestPlugin, LaunchpadBugURLHandler, LaunchpadCodeURLHandler, APTURLHandler
+[keybindings]
+[profiles]
+  [[default]]
+    background_color = "#282828"
+    font = Fira Code 15
+    foreground_color = "#ebdbb2"
+    palette = "#000000:#aa0000:#00aa00:#aa5500:#0000aa:#aa00aa:#00aaaa:#aaaaaa:#555555:#ff5555:#55ff55:#ffff55:#5555ff:#ff55ff:#55ffff:#ffffff"
+    use_system_font = False
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+[plugins]

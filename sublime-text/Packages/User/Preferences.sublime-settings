@@ -1,0 +1,36 @@
+{
+	"font_face": "Fira Code",
+	"font_size": 19,
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
+	"theme": "Default Dark.sublime-theme",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"trim_automatic_white_space": true,
+	/*"gnc_001": true,*/
+	/*"gnc_001": false,*/
+	/*"gnc_h17": true,*/
+	/*"gnc_m09": true,*/
+	/*"gnc_w1m12": true,*/
+	/*"gn_hide_tab_dropdown": true,*/
+	/*"gn_overlay_scroll_bars": true,*/
+	/*"gn_sidebar_box": true,*/
+	/*"gn_title_bar": true,*/
+	/*"gnc_002": true,*/
+	/*"gnwidg1": true,*/
+	/*"gnwidgo": true,*/
+	/*"gnc_m00": true,*/
+	/*"gnc_w1m13": true,*/
+	/*"gnc_001": true,*/
+	/*"gnc_001": true,*/
+	/*"gnc_h17": true,*/
+	/*"gnc_m00": true,*/
+	/*"gnc_w1m13": true,*/
+	/*"gnc_001": true,*/
+	/*"gnc_h17": true,*/
+	/*"gnc_m01": true,*/
+	/*"gnc_w1m13": true,*/
+	"gnc_001": true,
+	"index_files": true,
+}
