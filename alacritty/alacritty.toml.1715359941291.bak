@@ -1,0 +1,53 @@
+live_config_reload = true
+import = [
+  "/usr/lib/node_modules/alacritty-themes/themes/Terminal-app.toml"
+]
+
+[cursor]
+style = "Block"
+unfocused_hollow = true
+
+[font]
+size = 12
+
+  [font.bold]
+  family = "JetBrains Mono"
+  style = "Bold"
+
+  [font.glyph_offset]
+  x = 0
+  y = 0
+
+  [font.italic]
+  family = "JetBrains Mono"
+  style = "italic"
+
+  [font.normal]
+  family = "JetBrains Mono"
+  style = "Medium"
+
+  [font.offset]
+  x = 0
+  y = 0
+
+[mouse]
+hide_when_typing = true
+
+[scrolling]
+history = 10_000
+multiplier = 3
+
+[window]
+decorations = "buttonless"
+dynamic_padding = true
+dynamic_title = true
+startup_mode = "Windowed"
+opacity = 0.9
+
+  [window.dimensions]
+  columns = 80
+  lines = 25
+
+  [window.padding]
+  x = 2
+  y = 2
